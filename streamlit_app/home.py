@@ -56,7 +56,7 @@ def app():
     Access all the features of the app using it.The web app comes&nbsp;<br>
     with the features including -&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; <br>
     <b>1. Sales Analyses using <i> Data Visulations</i> based on <i>Seaborn</i><br>
-    <b>2. Future Sale Prediction using <i>Decision Tree Algorithm</i>&emsp;&emsp;<br>
+    <b>2. Future Sale Prediction using <i>XGBRegressor an DNN (Deep Learning)</i>&emsp;&emsp;<br>
 
     <h3 id ="sub_heading2">Data Description&emsp;&emsp;&emsp;</h3>
     <p id ="data_info">The data is the <i>sales data</i> for the <b>financial year 2014</b> from <i> 1155 Rossman<br> 
