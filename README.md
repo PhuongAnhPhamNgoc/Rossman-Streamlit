@@ -32,5 +32,5 @@ streamlit run main.py
 ## Deployment 
 The app is deployed using the [Streamlit](https://streamlit.io/).<br> 
 Follow the following link to check the live deployment of the app.<br>
-[Rossman Sales Analysis and Prediction](https://nqkhanh2002-sales-predict-streamlit-streamlit-appmain-isinzy.streamlit.app/)
+[Rossman Sales Analysis and Prediction](https://github.com/PhuongAnhPhamNgoc/Rossman-Streamlit)
 
